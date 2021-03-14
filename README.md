@@ -17,6 +17,7 @@
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img alt="js" width="35px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
 
+<hr>
 
 </div>
 
@@ -26,6 +27,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonGrn&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
     </a>
   </div>
+  <hr>
   <div>
     <a href="https://github.com/LeonGrn/LeonGrn">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonGrn&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Leon's GitHub Stats" />
