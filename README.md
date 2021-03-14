@@ -1,7 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonGrn&layout=compact)](https://github.com/LeonGrn/github-readme-stats)
-
-
-
 <div align="center">
   
 <h3 style="text-align:center;"> 🔧 Some Of The Tools I'm Using 🔧</h3>
@@ -28,7 +24,7 @@
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
     <a href="https://github.com/LeonGrn/LeonGrn">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonGrn&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonGrn546&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
     </a>
   </div>
   <hr>
