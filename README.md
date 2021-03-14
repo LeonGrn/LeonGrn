@@ -6,6 +6,7 @@
   
 <img alt="Java" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
 <img alt="Swift" width="35px" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
+<img alt="Flutter" width="35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"/>
 <img alt="Kotlin" width="35px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png"/>
 <img alt="C#" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
 <img alt="Unity" width="35px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png"/>
