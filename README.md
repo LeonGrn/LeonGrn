@@ -2,8 +2,9 @@
 <div align="center">
   
 <h3 style="text-align:center;"> 🔧 Some Of The Tools I'm Using 🔧</h3>
-  
+---  
 <div style='display:flex; justify-content:space-between; align-items:center;'>
+  
 <img alt="Java" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
 <img alt="Swift" width="35px" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
 <img alt="Kotlin" width="35px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png"/>
