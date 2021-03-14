@@ -5,7 +5,7 @@
   
 <div style='display:flex; justify-content:space-between; align-items:center;'>
 
-<img alt="Java" width="35px" src="https://www.iconfinder.com/icons/1010066/apple_code_logo_swift_icon"/>
+<img alt="Java" width="35px" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
 <img alt="Java" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
 <img alt="Java" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
 <img alt="Java" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
