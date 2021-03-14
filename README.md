@@ -1,5 +1,5 @@
 
-<p align="center" font-size: 75;>
+<p align="center" font size="25">
 🔧 Some Of The Tools I'm Using 🔧
 </p>
 <p align="center">  
