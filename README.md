@@ -3,6 +3,7 @@
 ## 🔧 Some Of The Tools I'm Using 🔧
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonGrn)](https://https://github.com/LeonGrn/github-readme-stats)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <!--
 **LeonGrn/LeonGrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
