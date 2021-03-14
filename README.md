@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p style="text-align: center;">
+<p style="text-align: center;"> Some Of The Tools I'm Using </p>
 
 ## 🔧 Some Of The Tools I'm Using 🔧
 
@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonGrn)](https://https://github.com/LeonGrn/github-readme-stats)
 
-</p>
+
 
 <!--
 **LeonGrn/LeonGrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
