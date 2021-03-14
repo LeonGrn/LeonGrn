@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p style="text-align: center;">
+<p align="center">
 🔧 Some Of The Tools I'm Using 🔧
 </p>
 <p align="center">  
