@@ -19,13 +19,13 @@
 
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
-    <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AubidaNaalwa&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
+    <a href="https://github.com/LeonGrn/LeonGrn">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonGrn&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
     </a>
   </div>
   <div>
-    <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AubidaNaalwa&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Aubida Naalwa's GitHub Stats" />
+    <a href="https://github.com/LeonGrn/LeonGrn">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonGrn&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Leon's GitHub Stats" />
     </a>
   </div>
 </div>
