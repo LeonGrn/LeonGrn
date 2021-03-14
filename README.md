@@ -8,7 +8,7 @@
 <img alt="Swift" width="35px" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
 <img alt="Kotlin" width="35px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png"/>
 <img alt="C#" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
-<img alt="Unity" width="35px" src=https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png/>
+<img alt="Unity" width="35px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png"/>
 <img alt="C" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
 <img  alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
