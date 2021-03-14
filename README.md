@@ -1,5 +1,7 @@
 ### Hi there 👋
-<p style="text-align: center;"> Some Of The Tools I'm Using </p>
+
+<center>Centered text</center>
+
 
 ## 🔧 Some Of The Tools I'm Using 🔧
 
