@@ -21,6 +21,8 @@
 
 </div>
 
+[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonGrn)](https://github.com/LeonGrn/github-readme-stats)
+
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
     <a href="https://github.com/LeonGrn/LeonGrn">
