@@ -14,7 +14,7 @@
 <img  alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img alt="Heroku" width="35px" src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-07-10/396072065317_f8b9a63ed67ca0368c6e_512.png"/>
+<img alt="js" width="35px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
 
 
 </div>
