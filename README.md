@@ -2,7 +2,7 @@
 <div align="center">
   
 <h3 style="text-align:center;"> 🔧 Some Of The Tools I'm Using 🔧</h3>
----  
+<hr>
 <div style='display:flex; justify-content:space-between; align-items:center;'>
   
 <img alt="Java" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
